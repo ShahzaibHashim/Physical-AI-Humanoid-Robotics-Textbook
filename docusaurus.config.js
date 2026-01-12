@@ -131,7 +131,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright � ${new Date().getFullYear()} Physical AI & Humanoid Robotics Textbook, Built with ❤️ by Subhan Kaladi.`,
+        copyright: `Copyright � ${new Date().getFullYear()} Physical AI & Humanoid Robotics Textbook, Built with ❤️ by Shahzaib Hashim.`,
       },
       prism: {
         theme: prismThemes.github,
