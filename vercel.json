@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "framework": "docusaurus",
   "builds": [
     {
       "src": "package.json",
@@ -14,8 +15,5 @@
       "src": "/(.*)",
       "dest": "/index.html"
     }
-  ],
-  "buildEnvironment": {
-    "NODE_VERSION": "18.x"
-  }
+  ]
 }
