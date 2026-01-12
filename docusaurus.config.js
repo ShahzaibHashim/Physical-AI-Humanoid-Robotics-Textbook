@@ -80,15 +80,15 @@ const config = {
             type: 'localeDropdown',
             position: 'right',
             i18n: {
-  defaultLocale: 'en',
-  locales: ['en', 'ur'],
-  localeConfigs: {
-    ur: {
-      label: 'اردو',
-      direction: 'rtl',
-    },
-  },
-},
+              defaultLocale: 'en',
+              locales: ['en', 'ur'],
+              localeConfigs: {
+                ur: {
+                  label: 'اردو',
+                  direction: 'rtl',
+                },
+              },
+            },
           },
         ],
       },
